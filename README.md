@@ -14,3 +14,17 @@
 **Contoh Output penggunaan**
 
 ![alt text](image-1.png)
+
+### Flowchart
+
+![alt text](<WhatsApp Image 2024-11-12 at 12.13.36_69098751.jpg>)
+
+**Penjelasan flowchart**
+
+1.	Mulai: Program dimulai.
+2.	Input Nama, NIM, Nilai Tugas, UTS, dan UAS: Pengguna memasukkan data untuk setiap mahasiswa.
+3.	Hitung Nilai Akhir: Program menghitung nilai akhir berdasarkan formula (Tugas*0.3 + UTS*0.35 + UAS*0.35).
+4.	Simpan Data ke List: Data mahasiswa disimpan ke dalam list.
+5.	Tambah data lagi?: Program menanyakan apakah ingin menambah data mahasiswa lagi. Jika "y", kembali ke langkah input data. Jika "t", lanjut ke langkah berikutnya.
+6.	Tampilkan Tabel: Program menampilkan data mahasiswa dalam bentuk tabel.
+7.	Selesai: Program berakhir.
