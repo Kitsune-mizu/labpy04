@@ -17,7 +17,7 @@
 
 ### Flowchart
 
-![alt text](<WhatsApp Image 2024-11-12 at 12.13.36_69098751.jpg>)
+![alt text](image-3.png)
 
 **Penjelasan flowchart**
 
