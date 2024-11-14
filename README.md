@@ -28,3 +28,20 @@
 5.	Tambah data lagi?: Program menanyakan apakah ingin menambah data mahasiswa lagi. Jika "y", kembali ke langkah input data. Jika "t", lanjut ke langkah berikutnya.
 6.	Tampilkan Tabel: Program menampilkan data mahasiswa dalam bentuk tabel.
 7.	Selesai: Program berakhir.
+
+# Latihan
+**Contoh Input Program Python3 (Vs code)**
+
+![alt text](image-4.png)
+![alt text](image-5.png)
+
+**Penjelasan code program**
+
+1. list_A adalah list awal dengan 5 elemen.
+2. Bagian "akses list" berisi contoh mengambil elemen tertentu dan mengakses bagian tertentu dari list.
+3. Bagian "ubah elemen list" menunjukkan cara mengganti elemen ke-4 dengan nilai lain serta mengganti elemen ke-4 sampai terakhir.
+4. Bagian "tambah elemen list" menunjukkan cara membuat list baru list_B dengan beberapa elemen dari list_A, menambahkan elemen string, menambah 3 nilai numerik, dan menggabungkan list_A ke list_B.
+
+**Contoh Output**
+
+![alt text](image-6.png)
